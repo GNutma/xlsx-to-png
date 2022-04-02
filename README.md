@@ -1,6 +1,6 @@
 # .xlsx to png
 
-For the purpose of this project, I have created a program that converts .xlsx files to .png files.
+For the purpose of this r/placeNL, I have created a program that converts .xlsx files to .png files.
 by collecting the color values of the cells in the .xlsx file, and then converting them to a .png file.
 
 To run the program, you must have the following:
